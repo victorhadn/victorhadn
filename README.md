@@ -9,6 +9,8 @@
 </br>
 </br>
 
+<img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
+
 <div align="left">
 <h3> Social Networks:</h3>
   </br>
