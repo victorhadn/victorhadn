@@ -1,9 +1,6 @@
 <div align="left">
   <h1> Hi Everyone!</h1>
 <div>😄 I'm Victor Nascimento</div>
-<div>🔭 I’m currently working on VueJs and ReactJs</div>
-<div>🌱 I’m currently learning Backend</div>
-<div>💬 Ask me anything about Frontend</div>
 <div>📫 How to reach me: contatovhan@gmail.com</div>
 <div>⚡ Enjoy! </div>
 </br>
